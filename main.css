@@ -1,0 +1,25 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding:10px 20px;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    gap:80px;
+    text-transform: uppercase;
+    
+}
+a {
+    text-decoration: none;
+    text-align: center;
+}
+.section-image img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
