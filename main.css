@@ -23,3 +23,18 @@ a {
     height: 350px;
     border-radius: 50%;
 }
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.section-image {
+    width: 50%;
+}
+
+.section-text {
+    width: 50%;
+}
